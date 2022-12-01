@@ -1,0 +1,17 @@
+ public class Main
+{
+            public static void main(String[] args) {
+            int idade = 28;
+            int anoNascimento = 1994;
+            double salario = 1000.00;
+            char genero = 'F';
+            String nomeCompleto = "Letícia Brilhante";
+            
+            System.out.println("Sua idade é: "+idade);
+            System.out.println("Ano de nascimento: "+anoNascimento);
+            System.out.println("Salário: "+salario);
+            System.out.println("Genero: "+genero);
+            System.out.println("Nome Completo: "+nomeCompleto);
+        }
+}
+
